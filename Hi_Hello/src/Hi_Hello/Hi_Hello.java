@@ -348,6 +348,7 @@ public class Hi_Hello extends javax.swing.JFrame implements Runnable{
         }
     }//GEN-LAST:event_b1ActionPerformed
 
+    //hello
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         // TODO add your handling code here:
         try
